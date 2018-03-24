@@ -97,24 +97,24 @@ the hiring hasn't even heard of GitHub or the concept of a coding portfolio.
 
 ## GIT
 squash git https://www.google.com/search?q=git+squash+commits
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Web Development with Computer Science Foundations - comprehensive
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+# .Web Development with Computer Science Foundations - comprehensive
 
 If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ.
 It has a plethora of hints, tips and answers to help you ensure you get the most out of this guide.
