@@ -1,5 +1,5 @@
 ## LINKS TO GUIDES
-* [ *] ALL [P1xt](https://github.com/P1xt/p1xt-guides)
+* [ ] ALL [P1xt](https://github.com/P1xt/p1xt-guides)
 * [ ] long list of [resources] (https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#am-i-ready-to-be-a-developer)
 
 ## MISC
@@ -37,6 +37,11 @@ https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project
 [app ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
 - [ ] tutorial for [back end api](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [ ] NET FLIX AND OTHER STREAMING SERVICES INFORMATION COMING AND GOING DATES AND RATINGS
+Project #7: Book club (react native)
+Project #19: DJ Spotify
+https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d
+Face book (with marvel heroes)
+
 Clone Spotify - you can sign up for a free account.
 [Spotify](https://www.spotify.com/us/)
 
