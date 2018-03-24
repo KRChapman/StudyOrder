@@ -53,7 +53,7 @@ You can't actually pull full length versions of the media to play in your app, j
 * [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 testing mocha jest ect..
 
- ##Debugging
+ ## Debugging
  * [ ] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [ ] the [chrome dev tools tricks](https://flaviocopes.com/chrome-devtools-tips/)
  
