@@ -1,5 +1,5 @@
 ## LINKS TO GUIDES
-* [ ] ALL [P1xt](https://github.com/P1xt/p1xt-guides)
+* [ *] ALL [P1xt](https://github.com/P1xt/p1xt-guides)
 * [ ] long list of [resources] (https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#am-i-ready-to-be-a-developer)
 
 ## MISC
