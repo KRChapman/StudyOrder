@@ -1,9 +1,17 @@
+## CURRENT
+
+* [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+ the [odin project] (https://www.theodinproject.com/courses/javascript)
+* [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+[thinkfull](https://www.thinkful.com/learn/javascript-best-practices-1/)
+
 ## LINKS TO GUIDES
 * [ ] ALL [P1xt](https://github.com/P1xt/p1xt-guides)
 * [ ] long list of [resources] (https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#am-i-ready-to-be-a-developer)
 
 ## MISC
-* [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+- [ ] webpack/gulp
+
 
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
@@ -25,22 +33,30 @@
 
 ## Projects
 * [ ] Project: Clone FaceBook - yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fullfill.
+Face book (API with marvel heroes)
 https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project
 
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 
 - [ ]  Project: [100 Days of CSS](https://100dayscss.com/), scroll to the bottom of that page, beginning with #001, recreate the images, in CodePen. Start the first one now and set a goal of finishing as many as you can by the end of Tier 3. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
+
 - [ ]  Project: Clone Medium. Include: create account, create post, publish post, edit post, add topic to post, follow user, follow topic, cheer for post, and home page with feed of recent posts, followed users, and followed topics.
 - [ ]Chrome Extension
+https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
+
 - [ ] Project - Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
+
 - [ ] alexa skill [with node] (https://codeburst.io/learn-to-build-an-amazon-alexa-skill-with-node-js-and-get-paid-to-do-it-cf55ae534650)
 [app ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
 - [ ] tutorial for [back end api](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-- [ ] NET FLIX AND OTHER STREAMING SERVICES INFORMATION COMING AND GOING DATES AND RATINGS
+
+- [ ] NET FLIX AND OTHER STREAMING SERVICES INFORMATION COMING AND GOING DATES AND RATINGS YOU CCAN SAVE LIStS HAVE FRIENDS AND MAKE SUGESTIONS
+
 Project #7: Book club (react native)
-Project #19: DJ Spotify
+
+Project #19: DJ Spotify (maybe it recomends public play lists? if possible)
 https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d
-Face book (with marvel heroes)
+
 
 Clone Spotify - you can sign up for a free account.
 [Spotify](https://www.spotify.com/us/)
@@ -50,9 +66,22 @@ You can use their API to search pretty much all of the data they have available:
 
 You can't actually pull full length versions of the media to play in your app, just play the demo track ;)
 
--PUBLISH NPM MODULE
+- [ ] PUBLISH NPM MODULE
+- [ ] RE_FACTOR TIC TAC TOE GAME WITH SMART AI USE MIN MAX ALGO
 
-- [ ] webpack/gulp
+- [ ]CHROME EXTENSION Vigenere / Caesar Ciphers 
+
+- [ ]Web Bot – An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
+
+- [ ]REDDIT BOT
+   Maybe question and answer bot filter maybe add ability to search for certain key word https://github.com/topielski/RedditBot/blob/master/redditbot.py
+
+- [ ]Page Scraper – Create an application which connects to a site and pulls out all links, or images, and saves them to a list. For added complexity, organize the indexed content and don’t allow duplicates. Have it put the results into an easily searchable index file.
+
+- [ ]YOUTUBE PLAY LIST: POSSIBLE? TO MAKE A YOUTBE PLAY LIST WITH YouTube API/search client? FOR KARAOKE OR JUST PLAYING MUSIC?
+
+- [ ] The easiest examples I could think of would be a library that does some math. Odds are the interviewer doesn't know how to do trig functions on a sphere, but it is something easy to look up and implement. You can describe it quickly. No amount of time will help them figure it out. Some people's eyes will just glaze over and they'll assume you're really smart (don't go into too much detail on these guys, show them your communication skills instead).
+
 
 ## TESTING
 * [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
@@ -91,6 +120,10 @@ algos from youtube start https://www.youtube.com/watch?v=HtSuA80QTyo
 - [ ]  Project: Create and polish your Portfolio site.
 - [ ]  Project: Create and polish your Resume/CV.
 - [ ]  Project: [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) on HackerRank
+
+10-interview-questions-every-javascript-developer
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
 - [reddit post about tips](https://www.reddit.com/r/learnprogramming/comments/7r3gd4/how_to_efficiently_build_a_portfolio_on_github/) 
 
 [link to reddit post](https://www.reddit.com/r/cscareerquestions/comments/6hff4n/what_makes_a_good_coding_portfolio/)
