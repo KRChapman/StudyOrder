@@ -54,6 +54,7 @@ https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
 - [ ] tutorial for [back end api](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 - [ ] NET FLIX AND OTHER STREAMING SERVICES INFORMATION COMING AND GOING DATES AND RATINGS YOU CCAN SAVE LIStS HAVE FRIENDS AND MAKE SUGESTIONS
+http://www.omdbapi.com/
 
 Project #7: Book club (react native)
 
