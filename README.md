@@ -8,7 +8,7 @@
 ## LINKS TO GUIDES
 * [ ] ALL [P1xt](https://github.com/P1xt/p1xt-guides)
 * [ ] long list of [resources] (https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#am-i-ready-to-be-a-developer)
-Web Development 2018 - The Must-Know Tech 
+* [ ] Web Development 2018 - The Must-Know Tech 
 https://www.youtube.com/watch?v=gVXcqO9A1vo
 https://coggle.it/diagram/WMMEvSoNyAABBX2w/t/web-development-in-2018/b97ca171d59ba2ab3b7ea8da244a8ed3a154ffa067568635fe2676068a1d44d0
 
