@@ -68,6 +68,8 @@ Clone Spotify - you can sign up for a free account.
 You can use their API to search pretty much all of the data they have available:
 [Spotify Web API]( https://developer.spotify.com/web-api/ ) 
 
+real time chat app (socket.io maybe?) maybe with a bot maybe into a game incorperating the bot
+
 You can't actually pull full length versions of the media to play in your app, just play the demo track ;)
 
 - [ ] PUBLISH NPM MODULE
